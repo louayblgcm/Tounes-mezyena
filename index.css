@@ -1,0 +1,28 @@
+html{
+    background-color: white;
+}
+#image{
+    width: 10cm;
+    height: 6cm;
+
+}
+body{
+    width:50%;
+    margin:auto;
+    margin-top: 50px;
+    background-color:#E6B89C ;
+    text-align: center;
+    height:550px;
+    border:1px solid black;
+    border-radius: 4%;
+}
+input{
+    width:25%;
+}
+input, img {
+    border: 2px solid black;
+
+}
+h1{
+    padding: 20px;
+}
